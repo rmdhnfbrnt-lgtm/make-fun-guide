@@ -84,6 +84,12 @@ learned, so you do not have to:
 - **Start with the daily.** The news image bounty is the fastest way to
   learn the whole pipeline — kit, anchor, bundle, submit, leaderboard —
   in one sitting.
+- **Branding checks are checks too.** This very guide was refused twice
+  before it was accepted: first the repository's About section had no
+  make.fun website or topic, then the README was missing its live rank
+  and reward badges and the repo had no screenshot of the guide. The
+  refusals cost nothing and each named its fix — read them as a
+  checklist, fix exactly what they name, and resubmit.
 
 ## FAQ
 
